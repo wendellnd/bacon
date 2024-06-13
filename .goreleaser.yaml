@@ -44,3 +44,12 @@ changelog:
     exclude:
       - "^docs:"
       - "^test:"
+
+brews:
+  - name: bacon
+    description: Bacon is delicious! It's even better when it's crispy!
+    homepage: https://github.com/wendellnd/bacon
+    commit_author:
+      name: wendellnd
+      email: wendelldourado.wn@gmail.com
+    directory: Formula
